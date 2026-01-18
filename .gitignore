@@ -1,0 +1,28 @@
+# Compiled binaries / executables
+a.out
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Static & shared libraries
+*.a
+*.so
+*.dll
+
+# Debug files
+*.gdb
+*.dSYM/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
