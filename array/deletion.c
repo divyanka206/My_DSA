@@ -185,7 +185,8 @@ Therefore we cant take i = pos to n-1*/
  * No extra array
  * No recursion
  *
- * Therefore the space complexity = O(1) [no extra memory is used apart from variables.]
+ * Therefore the space complexity(auxilary) = O(1) [no extra memory is used apart from variables.]
+ * Total space complexity = O(n) [total space complexity = input space+ auxilary space]
  *
  * Code 2:
  * Space complexity = O(1)*/
